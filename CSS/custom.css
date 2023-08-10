@@ -1,0 +1,26 @@
+.card-shadow {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.customButton {
+    border-radius: 3rem;
+    border: none;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    height: 3rem;
+    width: 3rem;
+}
+
+.customButtonExtent {
+    border-radius: 3rem;
+    border: none;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    height: 3rem;
+    width: 15rem;
+    background-color: lightpink;
+}
+
+.test {
+    border-radius: 3rem 3rem 0 0;
+    height: 16rem;
+    background-color: rgba(255, 182, 193, 0.55);
+}
